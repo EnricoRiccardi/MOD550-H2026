@@ -4,7 +4,7 @@ DATE: today
 
 FIGURE: [../../../Teaching/Figures/logo, width=100 frac=0.2]
 
-# #include "../../../Teaching/modules/intro_teachers_MOD550.do.txt"
-# #include "../../../Teaching/modules/part-1.1.why_python.do.txt"
+# #include "../../../Teaching/modules/00-course-intro/intro_teachers_MOD550.do.txt"
+# #include "../../../Teaching/modules/01-python-and-tools/why_python.do.txt"
 
 
