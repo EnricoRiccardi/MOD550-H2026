@@ -4,5 +4,7 @@ DATE: today
 
 FIGURE: [../../../Teaching/Figures/logo, width=100 frac=0.2]
 
-# #include "../../../Teaching/modules/00-course-intro/intro_MOD550.do.txt"
+# Continues the Python thread opened in class-000 (why_python).
 
+# #include "../../../Teaching/modules/01-python-and-tools/code_quality.do.txt"
+# #include "../../../Teaching/modules/01-python-and-tools/git.do.txt"
