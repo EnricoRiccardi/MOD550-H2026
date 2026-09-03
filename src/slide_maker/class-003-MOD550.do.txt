@@ -1,0 +1,8 @@
+TITLE: Fundaments of Machine learning for and with engineering applications
+AUTHOR: Enrico Riccardi {copyright|CC BY} Email:enrico.riccardi@uis.no at Department of Mathematics and Physics, University of Stavanger (UiS).
+DATE: today
+
+FIGURE: [../../../Teaching/Figures/logo, width=100 frac=0.2]
+
+# #include "../../../Teaching/modules/00-course-intro/intro_modelling_MOD550.do.txt"
+# #include "../../../Teaching/modules/02-data/metadata.do.txt"

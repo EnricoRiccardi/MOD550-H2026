@@ -1,0 +1,11 @@
+TITLE: Fundaments of Machine learning for and with engineering applications
+AUTHOR: Enrico Riccardi {copyright|CC BY} Email:enrico.riccardi@uis.no at Department of Mathematics and Physics, University of Stavanger (UiS).
+DATE: today
+
+FIGURE: [../../../Teaching/Figures/logo, width=100 frac=0.2]
+
+# Continues class-003 (intro to modelling + metadata) with uncertainty
+# and data properties.
+
+# #include "../../../Teaching/modules/03-probability-and-statistics/prob_uncert.do.txt"
+# #include "../../../Teaching/modules/02-data/data.do.txt"
