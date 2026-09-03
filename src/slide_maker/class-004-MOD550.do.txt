@@ -9,3 +9,5 @@ FIGURE: [../../../Teaching/Figures/logo, width=100 frac=0.2]
 
 # #include "../../../Teaching/modules/03-probability-and-statistics/prob_uncert.do.txt"
 # #include "../../../Teaching/modules/02-data/data.do.txt"
+# #include "../../../Teaching/modules/02-data/data_risk_bias.do.txt"
+# #include "../../../Teaching/modules/03-probability-and-statistics/information_theory.do.txt"
